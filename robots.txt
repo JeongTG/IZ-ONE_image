@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://https://izone-face.netlify.app/sitemap.xml
